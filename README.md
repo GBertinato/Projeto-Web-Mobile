@@ -6,6 +6,7 @@
  Guilherme Miranda Bertinato da Rocha https://github.com/GBertinato  <br/>
  Débora Abreu https://github.com/DeborahAbreu  <br/>
  Jean Alex https://github.com/thucuru  <br/>
+ Pedro Carvalho https://github.com/pedro068 <br/>
 
 Este projeto consiste em uma página web simples e responsiva, construída utilizando HTML e CSS. O código foi estruturado para criar uma interface limpa, com elementos organizados de forma flexível graças ao uso do Flexbox.
 
